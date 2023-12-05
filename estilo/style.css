@@ -208,6 +208,7 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor2);
 }
+
 footer > a {
     color: var(--cor3);
     text-decoration: none;
